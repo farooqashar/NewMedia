@@ -2,7 +2,9 @@ Combining all of the feedback, I made the following changes/revisions to the pro
 
 ● Using an entirely new structure/format of the website in order to mirror a real personal
 website, which can be found at https://bootstrapmade.com/demo/templates/iPortfolio/, in order to show the value of personal websites
+
 ● Added captions and some source citations to different figures
+
 ● Added the Google slides presentation onto the site itself for centralization of all materials
 ● Introduced elements of Slashdot and the early Internet days in the discussion
 ● Explained more economic significance and urgency in relation to personal websites
